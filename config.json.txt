@@ -2,7 +2,7 @@
   "users": {
     "22872205525": {
       "sudoList": [
-        "22872205525@s.whatsapp.net",
+        "22897094637@s.whatsapp.net",
         "22872205525@s.whatsapp.net"
       ],
       "tagAudioPath": "database/DigiX.mp3",
